@@ -1,0 +1,2937 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gpx creator="Velodynamics" version="1.1"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd"
+     xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1"
+     xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+     xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+     xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+     xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1"
+     xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1"
+     xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1"
+     xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1"
+     xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1"
+     xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1"
+     xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1"
+     xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1"
+     xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+    <metadata>
+        <link href="https://velodynamics.wordpress.com">
+            <text>Copyright 2017 Velodynamics</text>
+        </link>
+        <time></time>
+        <bounds maxlat="30.395673997700214" maxlon="-96.067500030621886" minlat="29.296535002067685"
+                minlon="-100.91010795906186"/>
+    </metadata>
+
+    <wpt lat="29.296535002067685" lon="-100.42809102684259">
+        <ele>0</ele>
+        <time></time>
+        <name>?CG-Fort Clark RV Park(pvt.)</name>
+        <cmt>tel://830-563-9340, off route 0.1 mi. SW on Ann St./Rd. 334, then 0.1 mi. SE on US 90, then 1 mi. SW on Ft.
+            Clark Rd., Bracketville, TX
+        </cmt>
+        <desc>tel://830-563-9340, off route 0.1 mi. SW on Ann St./Rd. 334, then 0.1 mi. SE on US 90, then 1 mi. SW on
+            Ft. Clark Rd., Bracketville, TX
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.679336016997695" lon="-96.907076966017485">
+        <ele>0</ele>
+        <time></time>
+        <name>?POI-Home of the Painted Churches</name>
+        <cmt>Schulenburg is located approximately 12 mi. S. of LaGrange</cmt>
+        <desc>Schulenburg is located approximately 12 mi. S. of LaGrange</desc>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.271770022809505" lon="-97.743649994954467">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Austin</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.110656600445509" lon="-97.318650959059596">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Bastrop</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.310019975528121" lon="-100.41706002317369">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Bracketville</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.181930018588901" lon="-96.59593996591866">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Burton</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.669480910524726" lon="-100.01244963146746">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Camp Wood</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.367310032248497" lon="-100.89375997893512">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Del Rio</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.27522730641067" lon="-98.871975783258677">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Fredericksburg</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.075797270983458" lon="-99.239175897091627">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Ingram</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.277013909071684" lon="-98.412039633840322">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Johnson City</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.048377634957433" lon="-99.139510961249471">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Kerrville</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.90393003448844" lon="-96.879300009459257">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-LaGrange</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.724752437323332" lon="-99.763024393469095">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Leakey</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.243247328326106" lon="-97.690570168197155">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Montopolis</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.389262763783336" lon="-96.088885115459561">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Navasota</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.063430611044168" lon="-96.69766123406589">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Round Top</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.018000025302172" lon="-96.73165999352932">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B,G-Warrenton</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.672480961307883" lon="-100.0133250374347">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B-Camp Wood B&amp;B</name>
+        <cmt>tel://210-854-8814, 401 N. Nueces St./SR 55, Camp Wood, TX</cmt>
+        <desc>tel://210-854-8814, 401 N. Nueces St./SR 55, Camp Wood, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.999540979042649" lon="-99.387345984578133">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B-Hallelujah Hut B&amp;B</name>
+        <cmt>tel://830-238-3496, 6.7 mi. W. of Hunt</cmt>
+        <desc>tel://830-238-3496, 6.7 mi. W. of Hunt</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.016920017078519" lon="-96.732366001233459">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B-Hillcrest Inn at Warrenton B&amp;B</name>
+        <cmt>tel://979-249-3074, 4339 SR 237, Warrenton, TX</cmt>
+        <desc>tel://979-249-3074, 4339 SR 237, Warrenton, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.182251967489719" lon="-96.595876011997461">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B-Knittel Homestead Inn B&amp;B</name>
+        <cmt>tel://979-289-5102, 520 N. Main St., Burton, TX</cmt>
+        <desc>tel://979-289-5102, 520 N. Main St., Burton, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.069566667079926" lon="-99.29496668279171">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B-River Oaks Lodge B&amp;B</name>
+        <cmt>tel://830-367-4214, tel://800-608-2596, 2.5 mi. E. of Hunt at 1120 SR 39</cmt>
+        <desc>tel://830-367-4214, tel://800-608-2596, 2.5 mi. E. of Hunt at 1120 SR 39</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.735280023887753" lon="-99.616592964157462">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B-The Lodges at Lost Maples B&amp;B</name>
+        <cmt>tel://830-966-5178, tel://877-216-5627, 4.2 mi. W. of junction of Rd. 337 and Rd. 187 at 77 Lower Sabinal
+            River Rd.
+        </cmt>
+        <desc>tel://830-966-5178, tel://877-216-5627, 4.2 mi. W. of junction of Rd. 337 and Rd. 187 at 77 Lower Sabinal
+            River Rd.
+        </desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.259716678410769" lon="-97.758416561409831">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Bicycle Sport Shop</name>
+        <cmt>tel://512-477-3472, 517 S. Lamar Blvd., Austin, TX</cmt>
+        <desc>tel://512-477-3472, 517 S. Lamar Blvd., Austin, TX</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.051943967118859" lon="-99.148159995675087">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Hill Country Bicycle Works- Kerrville</name>
+        <cmt>tel://830-896-6864, 141 W. Water St. Suite A200, Kerrville, TX</cmt>
+        <desc>tel://830-896-6864, 141 W. Water St. Suite A200, Kerrville, TX</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.267249997705221" lon="-98.860966740176082">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Hill Country Bicycle Works-Fredericksburg</name>
+        <cmt>closed Wed. and Sun., tel://830-990-2609, 702 E. Main St., Fredericksburg, TX</cmt>
+        <desc>closed Wed. and Sun., tel://830-990-2609, 702 E. Main St., Fredericksburg, TX</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.268066562712193" lon="-97.749166628345847">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Mellow Johnny's Bike Shop</name>
+        <cmt>tel://512-473-0222, 400 Neuces St., Austin, TX</cmt>
+        <desc>tel://512-473-0222, 400 Neuces St., Austin, TX</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.271916706115007" lon="-97.753250040113926">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-REI</name>
+        <cmt>tel://512-482-3357, 601 N. Lamar Blvd., Austin, TX</cmt>
+        <desc>tel://512-482-3357, 601 N. Lamar Blvd., Austin, TX</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.107013992965221" lon="-97.289161998778582">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Rising Phoenix Adventure</name>
+        <cmt>tel://512-677-2305, tel://512-985-5057, 306 Industrial Ave., Bastrop, TX</cmt>
+        <desc>tel://512-677-2305, tel://512-985-5057, 306 Industrial Ave., Bastrop, TX</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.604863980785012" lon="-100.00249302014709">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,CBN-Big Oak River Camp(pvt.)</name>
+        <cmt>tel://830-597-5280, 5 mi. S. of Camp Wood at 32598 SR 55</cmt>
+        <desc>tel://830-597-5280, 5 mi. S. of Camp Wood at 32598 SR 55</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.14725198969245" lon="-96.68188096024096">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,CBN-Dixieland RV Park and Campground(pvt.)</name>
+        <cmt>tel://979-278-3805, off route 2 mi. W. on SR 458 at 249 Dixieland RV Park Ln.</cmt>
+        <desc>tel://979-278-3805, off route 2 mi. W. on SR 458 at 249 Dixieland RV Park Ln.</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.010750014334917" lon="-99.120559981092811">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,CBN-Kerrville-Schreiner Park(city)</name>
+        <cmt>tel://830-257-7300, from junction of Water St. and Francisco Lemos St., off route 1.5 mi. S. on Water St.,
+            then 1.3 mi. S. on Memorial Hwy., then 0.4 mi. S. on Riverside Dr., then 0.3 mi. SW on Veterans Hwy. across
+            Guadalupe River, then 0.2 mi. SE at 2385 Bandera Hwy./SR 173, Kerrville, TX
+        </cmt>
+        <desc>tel://830-257-7300, from junction of Water St. and Francisco Lemos St., off route 1.5 mi. S. on Water St.,
+            then 1.3 mi. S. on Memorial Hwy., then 0.4 mi. S. on Riverside Dr., then 0.3 mi. SW on Veterans Hwy. across
+            Guadalupe River, then 0.2 mi. SE at 2385 Bandera Hwy./SR 173, Kerrville, TX
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.724666019901633" lon="-99.763338966295123">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,CBN-The Hog Pen(pvt.)</name>
+        <cmt>tel://830-232-4868, 373 US 83 S., Leakey, TX</cmt>
+        <desc>tel://830-232-4868, 373 US 83 S., Leakey, TX</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.305529981851578" lon="-96.515319971367717">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,CS-Overlook Park(COE)</name>
+        <cmt>tel://979-596-1622, tel://979-289-2321, off route 2.3 mi. N. on SR 36, then 0.2 mi. W. on Rd 1948, then 1.3
+            mi. N. into park
+        </cmt>
+        <desc>tel://979-596-1622, tel://979-289-2321, off route 2.3 mi. N. on SR 36, then 0.2 mi. W. on Rd 1948, then
+            1.3 mi. N. into park
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.772158972918987" lon="-99.526967033743858">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,M-A Peace of Heaven(pvt.)</name>
+        <cmt>tel://830-966-5198, from junction of Rds. 337 and 187, off route 1.1 mi. S. on Rd. 187., then 1.3 mi. E. on
+            Rd. 337, then 2 mi. N. at 1856 Evans Creek Rd., Vanderpool, TX, M meals(if arranged in advance)
+        </cmt>
+        <desc>tel://830-966-5198, from junction of Rds. 337 and 187, off route 1.1 mi. S. on Rd. 187., then 1.3 mi. E.
+            on Rd. 337, then 2 mi. N. at 1856 Evans Creek Rd., Vanderpool, TX, M meals(if arranged in advance)
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.115920016542077" lon="-97.278150022029877">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,M-Bastrop State Park</name>
+        <cmt>tel://512-321-2101, E. end of town, Bastrop, TX</cmt>
+        <desc>tel://512-321-2101, E. end of town, Bastrop, TX</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.946743035688996" lon="-96.725996006280184">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,M-Oak Thicket Park(Lower Colorado River Authority)</name>
+        <cmt>tel://979-249-3504, off route 3.5 mi. S. on SR 159</cmt>
+        <desc>tel://979-249-3504, off route 3.5 mi. S. on SR 159</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.269187977537513" lon="-98.397453026846051">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,M-Roadrunner RV Park(pvt.)</name>
+        <cmt>call ahead, tel://830-868-7449, 501 US 281, Johnson City, TX</cmt>
+        <desc>call ahead, tel://830-868-7449, 501 US 281, Johnson City, TX</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.10911600664258" lon="-97.371122008189559">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Bastrop RV Park(pvt.)</name>
+        <cmt>tel://512-321-4404, junction of Rd. 20 and SR 71 at 689 SR 71, Bastrop, TX</cmt>
+        <desc>tel://512-321-4404, junction of Rd. 20 and SR 71 at 689 SR 71, Bastrop, TX</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.124133359640837" lon="-97.431250009685755">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Bluebonnet Campground(pvt.)</name>
+        <cmt>tel://512-332-2267, tel://512-303-1095, from junction of SR 21 and N. Gaines Rd., off route 1 mi. N. at 307
+            CR 1209
+        </cmt>
+        <desc>tel://512-332-2267, tel://512-303-1095, from junction of SR 21 and N. Gaines Rd., off route 1 mi. N. at
+            307 CR 1209
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.060799028724432" lon="-96.902992967516184">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Bluff Creek Ranch(pvt.)</name>
+        <cmt>tel://979-242-5894, from junction of Rd. 153 and US 77, off route 4.3 mi. N. on US 77, then 1 mi. E. on
+            gravel at 537 Owl Creek Rd., CG bike repair(limited)
+        </cmt>
+        <desc>tel://979-242-5894, from junction of Rd. 153 and US 77, off route 4.3 mi. N. on US 77, then 1 mi. E. on
+            gravel at 537 Owl Creek Rd., CG bike repair(limited)
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.043549994006753" lon="-97.161899982020259">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Buescher State Park</name>
+        <cmt>tel://512-237-2241, 14 mi. E. of Bastrop</cmt>
+        <desc>tel://512-237-2241, 14 mi. E. of Bastrop</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.42411670461297" lon="-100.90671664103866">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Buzzard Roost RV Park(pvt.)</name>
+        <cmt>tel://830-774-5151, from junction of Gibbs and Bedell Aves., off route 1.5 mi. NW on Bedell Ave., then 0.2
+            mi. W. on Cantu Rd., then 2.7 mi. N. at 4411 Veterans Blvd./US 90/277/377, Del Rio, TX
+        </cmt>
+        <desc>tel://830-774-5151, from junction of Gibbs and Bedell Aves., off route 1.5 mi. NW on Bedell Ave., then 0.2
+            mi. W. on Cantu Rd., then 2.7 mi. N. at 4411 Veterans Blvd./US 90/277/377, Del Rio, TX
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.069099962711334" lon="-99.225356988608837">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-By-The-River Campground(pvt.)</name>
+        <cmt>tel://830-367-5566, tel://888-367-5566, off route 0.5 mi. S. at 175 Riverview Rd., Ingram, TX</cmt>
+        <desc>tel://830-367-5566, tel://888-367-5566, off route 0.5 mi. S. at 175 Riverview Rd., Ingram, TX</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.898659996688366" lon="-96.876419987529516">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Colorado River Landing RV Park(pvt.)</name>
+        <cmt>tel://979-968-9465, from the junction of Jefferson St./US 77 and Travis St./SR 71/159, off route 0.4 mi. S.
+            on Jefferson St./US 77, then 0.2 mi. W. on Cedar St. at 64 E. Bluffview Dr., LaGrange, TX
+        </cmt>
+        <desc>tel://979-968-9465, from the junction of Jefferson St./US 77 and Travis St./SR 71/159, off route 0.4 mi.
+            S. on Jefferson St./US 77, then 0.2 mi. W. on Cedar St. at 64 E. Bluffview Dr., LaGrange, TX
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.376383358612657" lon="-100.8826694637537">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Del Rio Elks Lodge #837(pvt.)</name>
+        <cmt>tel://830-775-2133, from Bedell and Gibbs Aves., off route 0.5 mi. SE on Dr. Fermin Calderon Blvd., then
+            0.1 mi. SW on Chapoy St., then 1 block SE at 441 San Felipe Springs Rd., Del Rio, TX
+        </cmt>
+        <desc>tel://830-775-2133, from Bedell and Gibbs Aves., off route 0.5 mi. SE on Dr. Fermin Calderon Blvd., then
+            0.1 mi. SW on Chapoy St., then 1 block SE at 441 San Felipe Springs Rd., Del Rio, TX
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.224866736680269" lon="-98.803566629067063">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Fredericksburg Texas KOA(pvt.)</name>
+        <cmt>tel://830-997-4796, reservations tel://800-562-0796, off route 4.7 mi. SE at 5681 E. US 290,
+            Fredericksburg, TX
+        </cmt>
+        <desc>tel://830-997-4796, reservations tel://800-562-0796, off route 4.7 mi. SE at 5681 E. US 290,
+            Fredericksburg, TX
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.091616688296199" lon="-99.200500035658479">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Kerrville KOA(pvt.)</name>
+        <cmt>tel://830-895-1665, tel://800-562-1665, just off route 0.2 mi. N. on Goat Creek Rd. at 2400 Goat Creek
+            Rd.
+        </cmt>
+        <desc>tel://830-895-1665, tel://800-562-1665, just off route 0.2 mi. N. on Goat Creek Rd. at 2400 Goat Creek
+            Rd.
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.239675967022777" lon="-98.909479016438127">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Ladybird Johnson RV Park(city)</name>
+        <cmt>tel://830-997-4202, junction of Rd. 2093 and SR 16, off route 1.2 mi. SW on SR 16, then 0.6 mi. NW at 432
+            Lady Bird Dr., Fredericksburg, TX
+        </cmt>
+        <desc>tel://830-997-4202, junction of Rd. 2093 and SR 16, off route 1.2 mi. SW on SR 16, then 0.6 mi. NW at 432
+            Lady Bird Dr., Fredericksburg, TX
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.30972202308476" lon="-96.513924971222878">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Lake Somerville Marina and Campground(pvt.)</name>
+        <cmt>tel://979-289-2321, off route 2.3 mi. N. on SR 36, then 0.1 mi. W. on Rd 1948, then 0.6 mi. N. on LBJ Dr.,
+            then 0.25 mi. NW on Marina Rd.
+        </cmt>
+        <desc>tel://979-289-2321, off route 2.3 mi. N. on SR 36, then 0.1 mi. W. on Rd 1948, then 0.6 mi. N. on LBJ Dr.,
+            then 0.25 mi. NW on Marina Rd.
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.429984958842397" lon="-100.91010795906186">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Lonesome Dove RV(pvt.)</name>
+        <cmt>tel://830-774-1823, from junction of Gibbs and Bedell Aves., off route 1.5 mi. NW on Bedell Ave., then 0.2
+            mi. W. on Cantu Rd., then 3.2 mi. N. at 4832 W. US 90/277/377, Del Rio, TX
+        </cmt>
+        <desc>tel://830-774-1823, from junction of Gibbs and Bedell Aves., off route 1.5 mi. NW on Bedell Ave., then 0.2
+            mi. W. on Cantu Rd., then 3.2 mi. N. at 4832 W. US 90/277/377, Del Rio, TX
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.810850005596876" lon="-99.573983307927847">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Lost Maples State Natural Area Campground</name>
+        <cmt>reservations advised, tel://830-966-3413, 37221 Rd. 187</cmt>
+        <desc>reservations advised, tel://830-966-3413, 37221 Rd. 187</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.179444029927254" lon="-97.724416963756084">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-McKinney Falls State Park</name>
+        <cmt>tel://512-243-1643, from junction of McKinney Falls Pkwy. and Burleson Rd., off route 1.8 mi. SW at 5808
+            McKinney Falls Pkwy.
+        </cmt>
+        <desc>tel://512-243-1643, from junction of McKinney Falls Pkwy. and Burleson Rd., off route 1.8 mi. SW at 5808
+            McKinney Falls Pkwy.
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.375685002654791" lon="-96.115851039066911">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Navasota RV Park(city)</name>
+        <cmt>tel://936-825-2241, at junction of route and Fairway Dr., Navasota, TX</cmt>
+        <desc>tel://936-825-2241, at junction of route and Fairway Dr., Navasota, TX</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.070366971194744" lon="-96.694195987656713">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Orchid Tree RV Park and Gallery(pvt.)</name>
+        <cmt>tel://713-854-0907, 453 N. Washington St./SR 237, Round Top, TX</cmt>
+        <desc>tel://713-854-0907, 453 N. Washington St./SR 237, Round Top, TX</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.945899983868003" lon="-96.750239990651608">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Park Prairie Park(Lower Colorado River Authority)</name>
+        <cmt>tel://979-249-3504, off route 1.5 mi. SE on SR 159, then 1 mi. S. on Park Prairie Rd., CG primitive, no
+            water
+        </cmt>
+        <desc>tel://979-249-3504, off route 1.5 mi. SE on SR 159, then 1 mi. S. on Park Prairie Rd., CG primitive, no
+            water
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.310923987999558" lon="-98.247372033074498">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Pedernales Falls State Park</name>
+        <cmt>tel://830-868-7304, off route 3.7 mi. N. at 2585 Rd. 6026</cmt>
+        <desc>tel://830-868-7304, off route 3.7 mi. N. at 2585 Rd. 6026</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.302609978243709" lon="-96.56441998668015">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Rocky Creek Park(COE)</name>
+        <cmt>tel://979-596-1622, reservations tel://877-444-6777, off route 4.7 mi. N. on Longpoint Rd.</cmt>
+        <desc>tel://979-596-1622, reservations tel://877-444-6777, off route 4.7 mi. N. on Longpoint Rd.</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.667630018666387" lon="-100.02281100489199">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Three Sisters Lodging and Campground(pvt.)</name>
+        <cmt>tel://830-597-4239, off route 0.2 mi. N. on SR 55, then 0.6 mi. SW on W. 7th St. which becomes River Rd. at
+            751 River Rd., Camp Wood, TX
+        </cmt>
+        <desc>tel://830-597-4239, off route 0.2 mi. N. on SR 55, then 0.6 mi. SW on W. 7th St. which becomes River Rd.
+            at 751 River Rd., Camp Wood, TX
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.620249969884753" lon="-100.00871666707098">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Wes Cooksey RV Park(county)</name>
+        <cmt>tel://830-597-3223, 3 mi. S. of Camp Wood</cmt>
+        <desc>tel://830-597-3223, 3 mi. S. of Camp Wood</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.307347010821104" lon="-96.54074396006763">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Yegua Creek Park(COE)</name>
+        <cmt>tel://979-596-1622, reservations tel://877-444-6777, off route 2.3 mi. N. on SR 36, then 2.7 mi. W. on Rd.
+            1948
+        </cmt>
+        <desc>tel://979-596-1622, reservations tel://877-444-6777, off route 2.3 mi. N. on SR 36, then 2.7 mi. W. on Rd.
+            1948
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.36912203207612" lon="-100.83033101633191">
+        <ele>0</ele>
+        <time></time>
+        <name>CS</name>
+        <cmt>3.5 mi. E. of Del Rio</cmt>
+        <desc>3.5 mi. E. of Del Rio</desc>
+        <sym>Convenience Store</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.22214999422431" lon="-97.95656668022275">
+        <ele>0</ele>
+        <time></time>
+        <name>CS,R</name>
+        <cmt>junction of Fitz Hugh Rd. and US 290</cmt>
+        <desc>junction of Fitz Hugh Rd. and US 290</desc>
+        <sym>Convenience Store</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.086430218070745" lon="-97.500014137476683">
+        <ele>0</ele>
+        <time></time>
+        <name>CS,R-Cedar Creek</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.069708237424493" lon="-99.334174208343029">
+        <ele>0</ele>
+        <time></time>
+        <name>CS,R-Hunt</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.31934997998178" lon="-96.346710026264191">
+        <ele>0</ele>
+        <time></time>
+        <name>CS-Independence</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.758930988609791" lon="-99.563533002510667">
+        <ele>0</ele>
+        <time></time>
+        <name>CS1</name>
+        <cmt>junction of Rd. 337 and Rd. 187</cmt>
+        <desc>junction of Rd. 337 and Rd. 187</desc>
+        <sym>Convenience Store</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.259616682305932" lon="-97.907766737043858">
+        <ele>0</ele>
+        <time></time>
+        <name>CS2</name>
+        <cmt>junction of Thomas Springs Rd. and SR 71</cmt>
+        <desc>junction of Thomas Springs Rd. and SR 71</desc>
+        <sym>Convenience Store</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.292154978960752" lon="-97.827425021678209">
+        <ele>0</ele>
+        <time></time>
+        <name>G,R</name>
+        <cmt>multiple, at junction of Bee Cave Rd. and SR 360</cmt>
+        <desc>multiple, at junction of Bee Cave Rd. and SR 360</desc>
+        <sym>Shopping Center</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.27686663903296" lon="-97.791116628795862">
+        <ele>0</ele>
+        <time></time>
+        <name>G,R-Rollingwood</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.009409999474883" lon="-97.014080006629229">
+        <ele>0</ele>
+        <time></time>
+        <name>G-Winchester</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.244833435863256" lon="-97.723416667431593">
+        <ele>0</ele>
+        <time></time>
+        <name>HOS-Austin International Hostel(HI)</name>
+        <cmt>tel://512-444-2294, tel://800-725-2331, 2200 S. Lakeshore Blvd., Austin, TX</cmt>
+        <desc>tel://512-444-2294, tel://800-725-2331, 2200 S. Lakeshore Blvd., Austin, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.291616693139076" lon="-97.741466676816344">
+        <ele>0</ele>
+        <time></time>
+        <name>HOS-Taos Cooperative Hostel(College Houses Co-op)</name>
+        <cmt>tel://512-476-5678, 2612 Guadalupe St., Austin, TX</cmt>
+        <desc>tel://512-476-5678, 2612 Guadalupe St., Austin, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.111757982522249" lon="-97.321747988462448">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Bastrop Public Library</name>
+        <cmt>tel://512-321-5441, 1100 Church St., Bastrop, TX</cmt>
+        <desc>tel://512-321-5441, 1100 Church St., Bastrop, TX</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.048096003010869" lon="-99.143506027758121">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Butt-Holdsworth Memorial Library</name>
+        <cmt>tel://830-257-8422, 505 Water St., Kerrville, TX</cmt>
+        <desc>tel://830-257-8422, 505 Water St., Kerrville, TX</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.669074974954128" lon="-100.01216095872223">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Camp Wood Public Library</name>
+        <cmt>tel://830-597-3208, 106 S. Nueces St., Camp Wood, TX</cmt>
+        <desc>tel://830-597-3208, 106 S. Nueces St., Camp Wood, TX</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.899227032437921" lon="-96.871671974658966">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Fayette Public Library</name>
+        <cmt>tel://979-968-3765, 855 S. Jefferson St., LaGrange, TX</cmt>
+        <desc>tel://979-968-3765, 855 S. Jefferson St., LaGrange, TX</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.28081669472158" lon="-98.412766680121422">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Johnson City Library</name>
+        <cmt>tel://830-868-4469, 501 Nugent Ave., Johnson City, TX</cmt>
+        <desc>tel://830-868-4469, 501 Nugent Ave., Johnson City, TX</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.310053000226617" lon="-100.41684896685183">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Kinney County Public Library</name>
+        <cmt>tel://830-563-2884, 510 S. Ellen St., Bracketville, TX</cmt>
+        <desc>tel://830-563-2884, 510 S. Ellen St., Bracketville, TX</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.395434023812413" lon="-96.076739989221096">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Navasota Public Library</name>
+        <cmt>tel://936-825-6744, 1411 E. Washington Ave., Navasota, TX</cmt>
+        <desc>tel://936-825-6744, 1411 E. Washington Ave., Navasota, TX</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.275299977511168" lon="-98.873500032350421">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Pioneer Memorial Library</name>
+        <cmt>tel://830-997-6513, 115 W. Main St., Fredericksburg, TX</cmt>
+        <desc>tel://830-997-6513, 115 W. Main St., Fredericksburg, TX</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.726772978901863" lon="-99.7613559756428">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Real County Public Library</name>
+        <cmt>tel://830-232-5199, 225 Main St., Leakey, TX</cmt>
+        <desc>tel://830-232-5199, 225 Main St., Leakey, TX</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.25989999063313" lon="-97.733433293178678">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Terrazas Branch Library</name>
+        <cmt>tel://512-974-3625, 1105 E. Cesar Chavez St., Austin, TX</cmt>
+        <desc>tel://512-974-3625, 1105 E. Cesar Chavez St., Austin, TX</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.361455021426082" lon="-100.89566996321082">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Val Verde Public Library</name>
+        <cmt>tel://830-774-7595, 300 Spring St., Del Rio, TX</cmt>
+        <desc>tel://830-774-7595, 300 Spring St., Del Rio, TX</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.274017965421081" lon="-97.81150602735579">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Westbank Community Library</name>
+        <cmt>tel://512-327-3045, 1309 Westbank Dr., Rollingwood, TX</cmt>
+        <desc>tel://512-327-3045, 1309 Westbank Dr., Rollingwood, TX</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.103839011862874" lon="-97.328853998333216">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Bastrop Inn</name>
+        <cmt>tel://512-321-3949, 102 Childers Dr., Bastrop, TX</cmt>
+        <desc>tel://512-321-3949, 102 Childers Dr., Bastrop, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.220266664400697" lon="-97.691133264452219">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Best Western Austin Airport Inn &amp; Suites</name>
+        <cmt>tel://512-386-5455, 1805 Airport Commerce Dr., Montopolis, TX</cmt>
+        <desc>tel://512-386-5455, 1805 Airport Commerce Dr., Montopolis, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.37185101211071" lon="-100.90129497461021">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Best Western Inn Del Rio</name>
+        <cmt>tel://830-775-7511, 810 Veterans Blvd., Del Rio, TX</cmt>
+        <desc>tel://830-775-7511, 810 Veterans Blvd., Del Rio, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.395673997700214" lon="-96.069022016599774">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Best Western Inn Navasota</name>
+        <cmt>tel://936-870-4100, 8965 SR 6, Navasota, TX</cmt>
+        <desc>tel://936-870-4100, 8965 SR 6, Navasota, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.276300022378564" lon="-98.402683334425092">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Best Western Johnson City Inn</name>
+        <cmt>tel://830-868-4044, 107 US 281/290, Johnson City, TX</cmt>
+        <desc>tel://830-868-4044, 107 US 281/290, Johnson City, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.671433977782726" lon="-100.01026002690196">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Cable Cabin Trailer Court</name>
+        <cmt>call ahead, tel://830-597-4427, 201 N. San Antonio St., Camp Wood, TX</cmt>
+        <desc>call ahead, tel://830-597-4427, 201 N. San Antonio St., Camp Wood, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.389566691592336" lon="-96.067500030621886">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Comfort Inn</name>
+        <cmt>tel://936-825-9464, 9345 SR 6, Navasota, TX</cmt>
+        <desc>tel://936-825-9464, 9345 SR 6, Navasota, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.901512023061514" lon="-96.897296961396933">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Cottonwood Inn</name>
+        <cmt>tel://979-968-3175, 1494 W. Travis St./SR 71, LaGrange, TX</cmt>
+        <desc>tel://979-968-3175, 1494 W. Travis St./SR 71, LaGrange, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.715859992429614" lon="-99.776101000607014">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Creekside Guesthouse</name>
+        <cmt>tel://361-549-4719, 280 Bison Ranch Rd., Leakey, TX</cmt>
+        <desc>tel://361-549-4719, 280 Bison Ranch Rd., Leakey, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.103789977729321" lon="-97.286140993237495">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Days Inn</name>
+        <cmt>tel://512-321-1157, 4102 SR 71 E., Bastrop, TX</cmt>
+        <desc>tel://512-321-1157, 4102 SR 71 E., Bastrop, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.265273964032531" lon="-98.879199977964163">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Days Inn Suites</name>
+        <cmt>tel://830-997-1086, 808 S. Adams St./SR 16, Fredericksburg, TX</cmt>
+        <desc>tel://830-997-1086, 808 S. Adams St./SR 16, Fredericksburg, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.288849994540215" lon="-97.723000003024936">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Days Inn University Downtown</name>
+        <cmt>tel://512-478-1631, 3105 N. I-35 Frontage Rd., Austin, TX</cmt>
+        <desc>tel://512-478-1631, 3105 N. I-35 Frontage Rd., Austin, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.792820028960705" lon="-99.575287029147148">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Foxfire Cabins</name>
+        <cmt>tel://830-966-2200, tel://877-966-8200, 1 mi. S. of Lost Maples State Natural Area at 117 Olsen Ranch Rd.
+        </cmt>
+        <desc>tel://830-966-2200, tel://877-966-8200, 1 mi. S. of Lost Maples State Natural Area at 117 Olsen Ranch
+            Rd.
+        </desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.306010995060205" lon="-100.41940402239561">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Ft. Clark Springs Motel</name>
+        <cmt>tel://830-563-2493, Ft. Clark Rd., Bracketville, TX</cmt>
+        <desc>tel://830-563-2493, Ft. Clark Rd., Bracketville, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.392332024872303" lon="-100.9007909707725">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Hampton Inn Del Rio</name>
+        <cmt>tel://830-775-9700, 2219 Bedell Ave., Del Rio, TX</cmt>
+        <desc>tel://830-775-9700, 2219 Bedell Ave., Del Rio, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.067084031179547" lon="-99.117326997220516">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Hampton Inn Kerrville</name>
+        <cmt>tel://830-257-0600, 2038 Sidney Baker St., Kerrville, TX</cmt>
+        <desc>tel://830-257-0600, 2038 Sidney Baker St., Kerrville, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.273800035938621" lon="-98.401233265176415">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Hill Country Inn</name>
+        <cmt>tel://830-868-2614, 203 S. US 281, Johnson City, TX</cmt>
+        <desc>tel://830-868-2614, 203 S. US 281, Johnson City, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.669949961826205" lon="-100.01108329743147">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Hill Country Motel</name>
+        <cmt>tel://830-597-3278, 200 E. 4th St., Camp Wood, TX</cmt>
+        <desc>tel://830-597-3278, 200 E. 4th St., Camp Wood, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.721808964386582" lon="-99.763677008450031">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Historic Leakey Inn</name>
+        <cmt>tel://830-232-5246, 527 S. US 83, Leakey, TX</cmt>
+        <desc>tel://830-232-5246, 527 S. US 83, Leakey, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.073680002242327" lon="-99.242039993405342">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Hunter House Inn &amp; Suites</name>
+        <cmt>tel://830-367-2377, tel://800-655-2377, 314 SR 39, Ingram, TX</cmt>
+        <desc>tel://830-367-2377, tel://800-655-2377, 314 SR 39, Ingram, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.272233374416828" lon="-97.738416669890285">
+        <ele>0</ele>
+        <time></time>
+        <name>M-La Quinta Austin Capital</name>
+        <cmt>tel://512-476-1166, 300 E. 11th St., Austin, TX</cmt>
+        <desc>tel://512-476-1166, 300 E. 11th St., Austin, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.384861988946795" lon="-100.90440700761974">
+        <ele>0</ele>
+        <time></time>
+        <name>M-LaQuinta Inns &amp; Suites</name>
+        <cmt>tel://830-775-7591, 2005 Veterans Blvd., Del Rio, TX</cmt>
+        <desc>tel://830-775-7591, 2005 Veterans Blvd., Del Rio, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.064641963690519" lon="-99.122571973130107">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Motel 6</name>
+        <cmt>tel://830-257-1500, tel://800-466-8356, 1810 Sidney Baker St., Kerrville, TX</cmt>
+        <desc>tel://830-257-1500, tel://800-466-8356, 1810 Sidney Baker St., Kerrville, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.904352985322475" lon="-96.875572996214032">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Oak Motel</name>
+        <cmt>tel://979-968-3133, 227 S. Jefferson St./US 77, LaGrange, TX</cmt>
+        <desc>tel://979-968-3133, 227 S. Jefferson St./US 77, LaGrange, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.268033370375633" lon="-98.870416665449739">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Peach Tree Inn &amp; Suites</name>
+        <cmt>tel://830-997-2117, tel://800-843-4666, 401 S. Washington St., Fredericksburg, TX</cmt>
+        <desc>tel://830-997-2117, tel://800-843-4666, 401 S. Washington St., Fredericksburg, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.999999972060323" lon="-99.387566680088639">
+        <ele>0</ele>
+        <time></time>
+        <name>M-River Inn Resort</name>
+        <cmt>tel://830-238-4226, tel://800-841-0501, 7 mi. W. of Hunt at 2960 SR 39</cmt>
+        <desc>tel://830-238-4226, tel://800-841-0501, 7 mi. W. of Hunt at 2960 SR 39</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.901480004191399" lon="-96.899410039186478">
+        <ele>0</ele>
+        <time></time>
+        <name>M-River Valley Motor Inn</name>
+        <cmt>tel://979-968-8314, 1575 W. Travis St./SR 71, LaGrange, TX</cmt>
+        <desc>tel://979-968-8314, 1575 W. Travis St./SR 71, LaGrange, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.063916677609086" lon="-96.698449971154332">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Round Top Inn</name>
+        <cmt>tel://979-249-5294, 407 S. White St., Round Top, TX</cmt>
+        <desc>tel://979-249-5294, 407 S. White St., Round Top, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.272400006651878" lon="-97.73116665892303">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Super 8 Austin</name>
+        <cmt>tel://512-472-8331, 1201 N. I-35 Frontage Rd., Austin, TX</cmt>
+        <desc>tel://512-472-8331, 1201 N. I-35 Frontage Rd., Austin, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.210899971425533" lon="-97.713649990037084">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Super 8 Austin Airport South</name>
+        <cmt>tel://512-334-4130, 3120 Montopolis Dr., Montopolis, TX</cmt>
+        <desc>tel://512-334-4130, 3120 Montopolis Dr., Montopolis, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.387256974354386" lon="-96.069702040404081">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Super 8 Navasota</name>
+        <cmt>tel://936-825-7775, 9460 SR 6 Loop S., Navasota, TX</cmt>
+        <desc>tel://936-825-7775, 9460 SR 6 Loop S., Navasota, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.260250018909574" lon="-98.855140982195735">
+        <ele>0</ele>
+        <time></time>
+        <name>M-The Frederick Motel</name>
+        <cmt>tel://800-996-6050, 1308 E. Main St., Fredericksburg, TX</cmt>
+        <desc>tel://800-996-6050, 1308 E. Main St., Fredericksburg, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.105322021991014" lon="-97.325677005574107">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Tropicana Motel</name>
+        <cmt>tel://512-321-2526, 103 SR 71 W., Bastrop, TX</cmt>
+        <desc>tel://512-321-2526, 103 SR 71 W., Bastrop, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.743940038606524" lon="-99.554929984733462">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Vanderpool</name>
+        <cmt>off route 1.1 mi. S. on Rd. 187</cmt>
+        <desc>off route 1.1 mi. S. on Rd. 187</desc>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.067916689440608" lon="-99.294750010594726">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Waltonia Lodge</name>
+        <cmt>tel://830-367-5613, 3 mi. E. of Hunt at 120 Waltonia Dr.</cmt>
+        <desc>tel://830-367-5613, 3 mi. E. of Hunt at 120 Waltonia Dr.</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.667703025043011" lon="-100.01150197349489">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Woodbine Inn</name>
+        <cmt>tel://830-597-2310, 214 S. Nueces St./SR 55, Camp Wood, TX</cmt>
+        <desc>tel://830-597-2310, 214 S. Nueces St./SR 55, Camp Wood, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.065800007432699" lon="-99.116960959509015">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Y.O. Ranch Resort</name>
+        <cmt>tel://830-257-4440, tel://877-967-3767, 2033 Sidney Baker St., Kerrville, TX</cmt>
+        <desc>tel://830-257-4440, tel://877-967-3767, 2033 Sidney Baker St., Kerrville, TX</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:30Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.271749990060925" lon="-96.493909992277622">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-Gay Hill</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.236520012840629" lon="-96.528579974547029">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-Longpoint</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.53798670321703" lon="-100.01167841255665">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-Montell</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.216783313080668" lon="-99.012166634202003">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-Morris Ranch</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.976740023121238" lon="-96.765160029754043">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-Oldenburg</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.947490030899644" lon="-96.798050031065941">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-Rutersville</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.361708011478186" lon="-98.469230029731989">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-Sandy</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.325270034372807" lon="-96.157320002093911">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-Washington</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.315140001475811" lon="-96.282510012388229">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-William Penn</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.180495958775282" lon="-96.594438012689352">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-Burton Cotton Gin and Museum</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.024347975850105" lon="-99.137153970077634">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-Museum of Western Art</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.271896002814174" lon="-98.867257023230195">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-National Museum of the Pacific War</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.278057958930731" lon="-98.877324024215341">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-Pioneer Museum</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.727200036868453" lon="-99.76161003112793">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-Real County Historical Museum</name>
+        <cmt>1 block N. of Courthouse Square</cmt>
+        <desc>1 block N. of Courthouse Square</desc>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.323789035901427" lon="-96.153589971363544">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-Star of the Republic Museum</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-13T20:36:31Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+</gpx>

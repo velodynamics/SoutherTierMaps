@@ -1,0 +1,3357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gpx creator="Velodynamics" version="1.1"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd"
+     xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1"
+     xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+     xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+     xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+     xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1"
+     xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1"
+     xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1"
+     xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1"
+     xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1"
+     xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1"
+     xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1"
+     xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1"
+     xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+    <metadata>
+        <link href="https://velodynamics.wordpress.com">
+            <text>Copyright 2017 Velodynamics</text>
+        </link>
+        <time></time>
+        <bounds maxlat="30.820547975599766" maxlon="-81.277054036036134" minlat="29.592769984155893"
+                minlon="-86.197618022561073"/>
+    </metadata>
+
+    <wpt lat="30.432495027780533" lon="-84.288752982392907">
+        <ele>0</ele>
+        <time></time>
+        <name>?BS,COL-Bicycle House</name>
+        <cmt>call ahead for lodging accomodations, tel://850-545-4074, 458 FAMU Way, Tallahassee, FL</cmt>
+        <desc>call ahead for lodging accomodations, tel://850-545-4074, 458 FAMU Way, Tallahassee, FL</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.721370028331876" lon="-86.115360036492348">
+        <ele>0</ele>
+        <time></time>
+        <name>?BS-Kinetic Community Bike Store</name>
+        <cmt>tel://850-814-3528, 30 mi. S. off route but owner lives locally, DeFuniak Springs, FL, Emergencies call
+            24/7 and leave message
+        </cmt>
+        <desc>tel://850-814-3528, 30 mi. S. off route but owner lives locally, DeFuniak Springs, FL, Emergencies call
+            24/7 and leave message
+        </desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.472741993144155" lon="-83.421798991039395">
+        <ele>0</ele>
+        <time></time>
+        <name>?POI-North Florida Junior College Art Gallery</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.793229987844825" lon="-82.498071016743779">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Alachua</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.788110010325909" lon="-85.679799970239401">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Bonifay</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.70490000769496" lon="-84.84702997840941">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Chattahoochee</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.779489977285266" lon="-85.538389971479774">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Chipley</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.721370028331876" lon="-86.115360036492348">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-DeFuniak Springs</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.646230014041066" lon="-81.602909993380308">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-East Palatka</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.652739986777306" lon="-82.339269993826747">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Gainesville</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.469340030103922" lon="-83.630119962617755">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Greenville</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.826979972422123" lon="-82.596889967098832">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-High Springs</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.469474727287889" lon="-83.413874488323927">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Madison</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.774079961702228" lon="-85.226779980584979">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Marianna</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.494439974427223" lon="-84.454349968582392">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Midway</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.545489620417356" lon="-83.869716413319111">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Monticello</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.648579964414239" lon="-81.637600008398294">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Palatka</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.726530011743307" lon="-85.937680033966899">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Ponce de Leon</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.58774002827704" lon="-84.591159978881478">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Quincy</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.710610011592507" lon="-84.925389960408211">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Sneads</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.892785958945751" lon="-81.310813995078206">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-St. Augustine</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.43826999142766" lon="-84.280709959566593">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-Tallahassee</name>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.329780001193285" lon="-82.758979965001345">
+        <ele>0</ele>
+        <time></time>
+        <name>AS-White Springs</name>
+        <cmt>off route 4 mi. E. on SR 136</cmt>
+        <desc>off route 4 mi. E. on SR 136</desc>
+        <sym>Navaid, Green</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.590767990797758" lon="-84.57552001811564">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B-Allison House Inn B&amp;B</name>
+        <cmt>tel://850-875-2511, 215 N. Madison St., Quincy, FL</cmt>
+        <desc>tel://850-875-2511, 215 N. Madison St., Quincy, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.468953959643841" lon="-83.629994988441467">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B-Grace Manor Inn B&amp;B</name>
+        <cmt>tel://850-948-5352, reservations tel://800-750-6305, 117 US 221, Greenville, FL</cmt>
+        <desc>tel://850-948-5352, reservations tel://800-750-6305, 117 US 221, Greenville, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.543567985296249" lon="-83.873860007151961">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B-John Denham House B&amp;B</name>
+        <cmt>tel://850-997-4568, 555 W. Palmer Mill Rd., Monticello, FL</cmt>
+        <desc>tel://850-997-4568, 555 W. Palmer Mill Rd., Monticello, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.543830003589392" lon="-83.871669983491302">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B-The Cottage B&amp;B</name>
+        <cmt>tel://850-342-3541, 295 W. Palmer Mill Rd., Monticello, FL</cmt>
+        <desc>tel://850-342-3541, 295 W. Palmer Mill Rd., Monticello, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.466669974848628" lon="-83.413517000153661">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B-Unity House B&amp;B</name>
+        <cmt>tel://850-973-4556, 307 SW Dade St., Madison, FL</cmt>
+        <desc>tel://850-973-4556, 307 SW Dade St., Madison, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.330031961202621" lon="-82.755112973973155">
+        <ele>0</ele>
+        <time></time>
+        <name>B&amp;B-White Springs B&amp;B</name>
+        <cmt>tel://386-397-4252, 16630 Spring St., White Springs, FL</cmt>
+        <desc>tel://386-397-4252, 16630 Spring St., White Springs, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.67292201705277" lon="-82.330592041835189">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Bikes &amp; More</name>
+        <cmt>tel://352-373-6574, 2133 NW 6th St., Gainesville, FL</cmt>
+        <desc>tel://352-373-6574, 2133 NW 6th St., Gainesville, FL</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.652604032307863" lon="-82.344227973371744">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Chain Reaction Bicycles</name>
+        <cmt>tel://352-373-4052, 1630 W. University Ave., Gainesville, FL</cmt>
+        <desc>tel://352-373-4052, 1630 W. University Ave., Gainesville, FL</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.627017015591264" lon="-82.371739977970719">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Gator Cycle</name>
+        <cmt>tel://352-373-3962, 3321 SW Archer Rd., Gainesville, FL</cmt>
+        <desc>tel://352-373-3962, 3321 SW Archer Rd., Gainesville, FL</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.89155599847436" lon="-81.300294036045671">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Island Bicycle</name>
+        <cmt>tel://904-824-4010, 211 Anastasia Blvd., St. Augustine, FL</cmt>
+        <desc>tel://904-824-4010, 211 Anastasia Blvd., St. Augustine, FL</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.4612369928509" lon="-84.280674001201987">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Joe's Bike Shop</name>
+        <cmt>tel://850-222-3855, 1637 N. Monroe St., Tallahassee, FL</cmt>
+        <desc>tel://850-222-3855, 1637 N. Monroe St., Tallahassee, FL</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.647481013089418" lon="-81.638092026114464">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Putnam Bicycles</name>
+        <cmt>tel://386-328-9033, 100 S. 9th St., Palatka, FL</cmt>
+        <desc>tel://386-328-9033, 100 S. 9th St., Palatka, FL</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.826249992474914" lon="-82.597471000626683">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Santa Fe Bicycle Outfitters</name>
+        <cmt>tel://386-454-2453, 10 N. Main St., High Springs, FL</cmt>
+        <desc>tel://386-454-2453, 10 N. Main St., High Springs, FL</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.884839998558164" lon="-81.325000030919909">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-Sprockets</name>
+        <cmt>tel://904-824-2422, 34 Rio Vista Dr., St. Augustine, FL</cmt>
+        <desc>tel://904-824-2422, 34 Rio Vista Dr., St. Augustine, FL</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.435593985021114" lon="-84.292502962052822">
+        <ele>0</ele>
+        <time></time>
+        <name>BS-University Cycles</name>
+        <cmt>tel://850-222-1665, 668 W. Gaines St., Tallahassee, FL</cmt>
+        <desc>tel://850-222-1665, 668 W. Gaines St., Tallahassee, FL</desc>
+        <sym>Bike Trail</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.986590016633272" lon="-82.765000015497208">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,CBN,CS-Ichetucknee Family Canoe and Cabins(pvt.)</name>
+        <cmt>tel://386-497-2150, 8587 SW Elim Church Rd.</cmt>
+        <desc>tel://386-497-2150, 8587 SW Elim Church Rd.</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.754820024594665" lon="-85.194149985909462">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,CBN-Arrowhead Campsites(pvt.)</name>
+        <cmt>tel://850-526-7578, tel://800-643-9166, from junction of SR 71 and SR 10/US 90, off route 1 mi. SE at 4820
+            US 90
+        </cmt>
+        <desc>tel://850-526-7578, tel://800-643-9166, from junction of SR 71 and SR 10/US 90, off route 1 mi. SE at 4820
+            US 90
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.914294006302953" lon="-82.580639971420169">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,CBN-O'Leno State Park</name>
+        <cmt>campground gate closes at sunset, call ahead to get exact time, tel://386-454-1853, 6 mi. N. of High
+            Springs at 410 SE O'Leno Park Rd.
+        </cmt>
+        <desc>campground gate closes at sunset, call ahead to get exact time, tel://386-454-1853, 6 mi. N. of High
+            Springs at 410 SE O'Leno Park Rd.
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.746318008750677" lon="-84.932528994977474">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,CBN-Three Rivers State Park</name>
+        <cmt>campground gate closes at sunset, call ahead to get exact time, tel://850-482-9006, off route 2 mi. N. on
+            CR 271 at 7908 Three River Park Rd., Sneads, FL
+        </cmt>
+        <desc>campground gate closes at sunset, call ahead to get exact time, tel://850-482-9006, off route 2 mi. N. on
+            CR 271 at 7908 Three River Park Rd., Sneads, FL
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.394197022542357" lon="-83.36957897990942">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,CBN-Yogi Bear's Jellystone Park Resort(pvt.)</name>
+        <cmt>tel://850-973-8269, tel://800-347-0174, from Madison, off route 6.4 mi. SE on SR 53, then 1 mi. W. at 1051
+            SW Old St. Augustine Rd.
+        </cmt>
+        <desc>tel://850-973-8269, tel://800-347-0174, from Madison, off route 6.4 mi. SE on SR 53, then 1 mi. W. at 1051
+            SW Old St. Augustine Rd.
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.394489970058203" lon="-82.944120028987527">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,M,R-Spirit of the Suwannee Music Park(pvt.)</name>
+        <cmt>often closed to public during music festivals, call ahead, tel://386-364-1683, from the junction of CR 132
+            and SR 129, off route 0.5 mi. N. on US 129 at 3076 95th Dr.,
+        </cmt>
+        <desc>often closed to public during music festivals, call ahead, tel://386-364-1683, from the junction of CR 132
+            and SR 129, off route 0.5 mi. N. on US 129 at 3076 95th Dr.,
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.392336994409561" lon="-83.354811994358897">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,M-Deerwood Inn and Madison Campground(pvt.)</name>
+        <cmt>tel://850-973-2504, from Madison, off route 6.4 mi. SE on SR 53, then 0.1 mi. W. at 155 SW Old St.
+            Augustine Rd.
+        </cmt>
+        <desc>tel://850-973-2504, from Madison, off route 6.4 mi. SE on SR 53, then 0.1 mi. W. at 155 SW Old St.
+            Augustine Rd.
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.333759980276227" lon="-82.771573020145297">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,M-Stephen Foster State Folk Center</name>
+        <cmt>tel://386-397-4331, 11016 Lillian Saunders Dr./US 41, White Springs, FL</cmt>
+        <desc>tel://386-397-4331, 11016 Lillian Saunders Dr./US 41, White Springs, FL</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.770358983427286" lon="-85.94896299764514">
+        <ele>0</ele>
+        <time></time>
+        <name>CG,M-Vortex Spring(pvt.)</name>
+        <cmt>tel://850-836-4979, off route 4 mi. N. on SR 81 at 1517 Vortex Spring Ln., Ponce de Leon, FL</cmt>
+        <desc>tel://850-836-4979, off route 4 mi. N. on SR 81 at 1517 Vortex Spring Ln., Ponce de Leon, FL</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.87039202824235" lon="-81.277054036036134">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Anastasia State Park</name>
+        <cmt>tel://904-461-2033, off route 1.9 mi. SE, then 0.5 mi. SE at 300 Anastasia Park Rd., St. Augustine, FL
+        </cmt>
+        <desc>tel://904-461-2033, off route 1.9 mi. SE, then 0.5 mi. SE at 300 Anastasia Park Rd., St. Augustine, FL
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.580119034275413" lon="-84.69699801877141">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Beaver Lake Campground(pvt.)</name>
+        <cmt>tel://850-856-9095, from town, off route 1.5 mi. S. on Dewey Johnson Way/CR 65A, then 2.2 mi. SW on SR 12,
+            then 0.1 mi. E. at 133 Kneeology Way, Gretna, FL
+        </cmt>
+        <desc>tel://850-856-9095, from town, off route 1.5 mi. S. on Dewey Johnson Way/CR 65A, then 2.2 mi. SW on SR 12,
+            then 0.1 mi. E. at 133 Kneeology Way, Gretna, FL
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.820547975599766" lon="-85.242893015965819">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Blue Hole Camping Area(Caverns State Park)</name>
+        <cmt>campground gate closes at sunset, call ahead to get exact time, tel://850-482-1228, off route 3 mi. N. on
+            SR 166 at 3345 Caverns Rd., Marianna, FL
+        </cmt>
+        <desc>campground gate closes at sunset, call ahead to get exact time, tel://850-482-1228, off route 3 mi. N. on
+            SR 166 at 3345 Caverns Rd., Marianna, FL
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.829370994120836" lon="-82.683767974376678">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Blue Springs Park(pvt.)</name>
+        <cmt>tel://386-454-1369, from the junction of Santa Fe Blvd. and Main St., off route 0.8 mi. S. on Main St.,
+            then 4.4 mi. W. on NW 182nd Ave./SR 340, then 0.5 mi. N. on NE 80th Ave., then 0.4 mi. W. at 7450 NE 60th
+            St., High Springs, FL
+        </cmt>
+        <desc>tel://386-454-1369, from the junction of Santa Fe Blvd. and Main St., off route 0.8 mi. S. on Main St.,
+            then 4.4 mi. W. on NW 182nd Ave./SR 340, then 0.5 mi. N. on NE 80th Ave., then 0.4 mi. W. at 7450 NE 60th
+            St., High Springs, FL
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.700149983167648" lon="-84.853509021922946">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Chattahoochee RV Campground and Fishing Resort(city)</name>
+        <cmt>tel://850-663-4475, off route 0.5 mi. S. at 269 River Landing Rd., Chattahoochee, FL</cmt>
+        <desc>tel://850-663-4475, off route 0.5 mi. S. at 269 River Landing Rd., Chattahoochee, FL</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.717660030350089" lon="-84.851789977401495">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Eastbank Campground(COE)</name>
+        <cmt>tel://229-662-9273, reservations tel://877-444-6777, off route 1.5 mi. N. on Bolivar St. at 153 Eastbank
+            Rd., Chattahoochee, FL
+        </cmt>
+        <desc>tel://229-662-9273, reservations tel://877-444-6777, off route 1.5 mi. N. on Bolivar St. at 153 Eastbank
+            Rd., Chattahoochee, FL
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.438190028071404" lon="-83.09351596981287">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Gibson Park(county)</name>
+        <cmt>tel://386-792-3098, from junction of CR 132 and CR 751, off route 3 mi. N. at 6884 CR 751</cmt>
+        <desc>tel://386-792-3098, from junction of CR 132 and CR 751, off route 3 mi. N. at 6884 CR 751</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.875169964507222" lon="-82.548390012234449">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-High Springs Campground(pvt.)</name>
+        <cmt>tel://386-454-1688, off route 4.2 mi. NE on CR 236, then 0.2 mi. N. at 24004 NW Old Bellamy Rd., High
+            Springs, FL
+        </cmt>
+        <desc>tel://386-454-1688, off route 4.2 mi. NE on CR 236, then 0.2 mi. N. at 24004 NW Old Bellamy Rd., High
+            Springs, FL
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.981023008003831" lon="-82.750301007181406">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Ichetucknee Springs Campground(pvt.)</name>
+        <cmt>tel://386-497-2285, off route 0.5 mi. NE at 245 SW Breckenridge Ln.</cmt>
+        <desc>tel://386-497-2285, off route 0.5 mi. NE at 245 SW Breckenridge Ln.</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.951845016330481" lon="-81.305874036625028">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-North Beach Resort(pvt.)</name>
+        <cmt>tel://904-824-1806, tel://800-542-8316, off route 4 mi. NE at 4125 SR A1A, St. Augustine, FL</cmt>
+        <desc>tel://904-824-1806, tel://800-542-8316, off route 4 mi. NE at 4125 SR A1A, St. Augustine, FL</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.731180962175131" lon="-85.532442005351186">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Pine Ridge Campground(Falling Waters State Park)</name>
+        <cmt>campground gate closes at sunset, call ahead to get exact time, tel://850-638-6130, off route 0.7 mi. S. on
+            SR 77, then 2.4 mi. S. on CR 77A, then 0.8 mi. SE on State Park Rd., Chipley, FL
+        </cmt>
+        <desc>campground gate closes at sunset, call ahead to get exact time, tel://850-638-6130, off route 0.7 mi. S.
+            on SR 77, then 2.4 mi. S. on CR 77A, then 0.8 mi. SE on State Park Rd., Chipley, FL
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.724321966990829" lon="-84.903716035187244">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Seminole Lodge Marina, Motel and Campground(pvt.)</name>
+        <cmt>tel://850-593-6886, tel://800-410-5209, off route 1.5 mi. N. at 2360 Legion Rd. on Lake Seminole, Sneads,
+            FL
+        </cmt>
+        <desc>tel://850-593-6886, tel://800-410-5209, off route 1.5 mi. N. at 2360 Legion Rd. on Lake Seminole, Sneads,
+            FL
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.857299998402596" lon="-81.282049985602498">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-St. Augustine Beach KOA(pvt.)</name>
+        <cmt>tel://904-471-3113, reservations tel://800-562-4022, off route 5 mi. SE on SR A1A at 525 W. Pope Rd., St.
+            Augustine, FL
+        </cmt>
+        <desc>tel://904-471-3113, reservations tel://800-562-4022, off route 5 mi. SE on SR A1A at 525 W. Pope Rd., St.
+            Augustine, FL
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.620763026177883" lon="-81.585229961201549">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-St. Johns Campground(pvt.)</name>
+        <cmt>tel://386-328-4470, off route 3 mi. S. at 436 US 17 S., East Palatka, FL</cmt>
+        <desc>tel://386-328-4470, off route 3 mi. S. at 436 US 17 S., East Palatka, FL</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.789207033813" lon="-86.197618022561073">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Sunset King Lake Resort(pvt.)</name>
+        <cmt>tel://850-892-7229, from 5.6 mi. W. of town, off route 3.5 mi. N. on Kings Lake Rd., then 0.3 mi. E. at 336
+            Paradise Island Dr., DeFuniak Springs, FL
+        </cmt>
+        <desc>tel://850-892-7229, from 5.6 mi. W. of town, off route 3.5 mi. N. on Kings Lake Rd., then 0.3 mi. E. at
+            336 Paradise Island Dr., DeFuniak Springs, FL
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.386469997465611" lon="-83.167179990559816">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Suwannee River State Park</name>
+        <cmt>tel://386-362-2746, on E. side of Suwannee River, near active RR tracks, off route 0.5 mi. N. at 3631 201st
+            Path
+        </cmt>
+        <desc>tel://386-362-2746, on E. side of Suwannee River, near active RR tracks, off route 0.5 mi. N. at 3631
+            201st Path
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.319379987195134" lon="-82.755159996449947">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Suwannee Valley Campground(pvt.)</name>
+        <cmt>tel://386-487-4996, 786 NW Stephen Foster Dr., White Springs, FL</cmt>
+        <desc>tel://386-487-4996, 786 NW Stephen Foster Dr., White Springs, FL</desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.477378023788333" lon="-83.916194988414645">
+        <ele>0</ele>
+        <time></time>
+        <name>CG-Tallahassee East/Monticello KOA(pvt.)</name>
+        <cmt>tel://850-997-3890, reservations tel://800-562-3890, from the junction of Old Lloyd Rd./CR 158A off route
+            3.3 mi. E. on Rabon Rd./CR 158B, then 1.9 mi. S. on Waukeenah Rd./CR 259, then 0.1 mi. E. at 346 KOA Rd.
+        </cmt>
+        <desc>tel://850-997-3890, reservations tel://800-562-3890, from the junction of Old Lloyd Rd./CR 158A off route
+            3.3 mi. E. on Rabon Rd./CR 158B, then 1.9 mi. S. on Waukeenah Rd./CR 259, then 0.1 mi. E. at 346 KOA Rd.
+        </desc>
+        <sym>Campground</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.771510992199183" lon="-85.200815023854375">
+        <ele>0</ele>
+        <time></time>
+        <name>CS</name>
+        <cmt>0.2 mi. N. of junction of SR 71 and SR 10/US 90</cmt>
+        <desc>0.2 mi. N. of junction of SR 71 and SR 10/US 90</desc>
+        <sym>Convenience Store</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.77331000007689" lon="-85.814339993521571">
+        <ele>0</ele>
+        <time></time>
+        <name>CS,R-Caryville</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.71802000887692" lon="-81.508170012384653">
+        <ele>0</ele>
+        <time></time>
+        <name>CS,R-Hastings</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.23239997215569" lon="-82.819790001958609">
+        <ele>0</ele>
+        <time></time>
+        <name>CS,R-Wellborn</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.450762966647744" lon="-84.088418036699295">
+        <ele>0</ele>
+        <time></time>
+        <name>CS-Capitola</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.419810023158789" lon="-83.300229962915182">
+        <ele>0</ele>
+        <time></time>
+        <name>CS-Lee</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.851180035620928" lon="-81.493880040943623">
+        <ele>0</ele>
+        <time></time>
+        <name>CS-Molasses Junction</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.736300017684698" lon="-81.960109993815422">
+        <ele>0</ele>
+        <time></time>
+        <name>CS-Putnam Hall</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.422901017591357" lon="-84.118388034403324">
+        <ele>0</ele>
+        <time></time>
+        <name>CS1</name>
+        <cmt>1 mi. S. of Chaires</cmt>
+        <desc>1 mi. S. of Chaires</desc>
+        <sym>Convenience Store</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.502951964735985" lon="-83.758446983993053">
+        <ele>0</ele>
+        <time></time>
+        <name>CS2</name>
+        <cmt>7.8 mi. SE of Monticello</cmt>
+        <desc>7.8 mi. SE of Monticello</desc>
+        <sym>Convenience Store</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.381045984104276" lon="-83.171729017049074">
+        <ele>0</ele>
+        <time></time>
+        <name>CS3</name>
+        <cmt>at junction of US 90 and River Rd.</cmt>
+        <desc>at junction of US 90 and River Rd.</desc>
+        <sym>Convenience Store</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.387915037572384" lon="-82.938145995140076">
+        <ele>0</ele>
+        <time></time>
+        <name>CS4</name>
+        <cmt>off route 0.5 mi. N. on US 129</cmt>
+        <desc>off route 0.5 mi. N. on US 129</desc>
+        <sym>Convenience Store</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.318986037746072" lon="-82.804014002904296">
+        <ele>0</ele>
+        <time></time>
+        <name>CS5</name>
+        <cmt>off route 1 mi. E. on SR 136</cmt>
+        <desc>off route 1 mi. E. on SR 136</desc>
+        <sym>Convenience Store</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.792319988831878" lon="-85.376559980213642">
+        <ele>0</ele>
+        <time></time>
+        <name>G,R-Cottondale</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.73265003412962" lon="-81.88424002379179">
+        <ele>0</ele>
+        <time></time>
+        <name>G,R-Florahome</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.592839973047376" lon="-82.086529964581132">
+        <ele>0</ele>
+        <time></time>
+        <name>G,R-Hawthorne</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.709650008007884" lon="-82.04525001347065">
+        <ele>0</ele>
+        <time></time>
+        <name>G,R-Melrose</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.720130009576678" lon="-86.044110003858805">
+        <ele>0</ele>
+        <time></time>
+        <name>G-Argyle</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.719229960814118" lon="-85.020149974152446">
+        <ele>0</ele>
+        <time></time>
+        <name>G-Grand Ridge</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.615380024537444" lon="-84.66172001324594">
+        <ele>0</ele>
+        <time></time>
+        <name>G-Gretna</name>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.89381399936974" lon="-81.311847986653447">
+        <ele>0</ele>
+        <time></time>
+        <name>HOS,M-Pirate Haus Inn and Hostel(pvt.)</name>
+        <cmt>hostel reservations requested, inn tel://904-808-1999, hostel tel://904-800-8097, 32 Treasury St., St.
+            Augustine, FL,
+        </cmt>
+        <desc>hostel reservations requested, inn tel://904-808-1999, hostel tel://904-800-8097, 32 Treasury St., St.
+            Augustine, FL,
+        </desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.648190038278699" lon="-82.323304982855916">
+        <ele>0</ele>
+        <time></time>
+        <name>HOS-Zen Hostel(pvt.)</name>
+        <cmt>tel://352-336-3613, 404 SE 2nd St., Gainesville, FL</cmt>
+        <desc>tel://352-336-3613, 404 SE 2nd St., Gainesville, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.791985023766756" lon="-82.493980983272195">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Alachua Branch Library</name>
+        <cmt>tel://386-462-2952, 14913 NW 140th St., Alachua, FL</cmt>
+        <desc>tel://386-462-2952, 14913 NW 140th St., Alachua, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.700959004461765" lon="-84.83587902970612">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Chattahoochee Public Library</name>
+        <cmt>tel://850-663-2707, 300 Maple St., Chattahoochee, FL</cmt>
+        <desc>tel://850-663-2707, 300 Maple St., Chattahoochee, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.442471001297235" lon="-84.283749992027879">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Collins Main Library</name>
+        <cmt>tel://850-606-2665, 200 W. Park Ave., Tallahassee, FL</cmt>
+        <desc>tel://850-606-2665, 200 W. Park Ave., Tallahassee, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.718369977548718" lon="-86.115741999819875">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-DeFuniak Springs Library</name>
+        <cmt>tel://850-892-3624, 3 Circle Dr., DeFuniak Springs, FL</cmt>
+        <desc>tel://850-892-3624, 3 Circle Dr., DeFuniak Springs, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.464945985004306" lon="-83.632843997329473">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Greenville Public Library</name>
+        <cmt>tel://850-948-2529, 312 SW Church Ave., Greenville, FL</cmt>
+        <desc>tel://850-948-2529, 312 SW Church Ave., Greenville, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.592769984155893" lon="-82.086822995916009">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Hawthorne Branch Library</name>
+        <cmt>tel://352-481-1920, 6640 SE 221 St., Hawthorne, FL</cmt>
+        <desc>tel://352-481-1920, 6640 SE 221 St., Hawthorne, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.651537016034126" lon="-82.32157101854682">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Headquarters Library</name>
+        <cmt>tel://352-334-3900, 401 E. University Ave., Gainesville, FL</cmt>
+        <desc>tel://352-334-3900, 401 E. University Ave., Gainesville, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.827456986531615" lon="-82.598887039348483">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-High Springs Branch Library</name>
+        <cmt>tel://386-454-2515, 135 NW 1st Ave., High Springs, FL</cmt>
+        <desc>tel://386-454-2515, 135 NW 1st Ave., High Springs, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.794416973367333" lon="-85.68056900985539">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Holmes County Library</name>
+        <cmt>closed Sun. - Mon., tel://850-547-3573, 301 N. J. Harvey Ethridge St., Bonifay, FL</cmt>
+        <desc>closed Sun. - Mon., tel://850-547-3573, 301 N. J. Harvey Ethridge St., Bonifay, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.543451979756355" lon="-83.873137990012765">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Jefferson County Library</name>
+        <cmt>tel://850-342-0205, 375 S. Water St., Monticello, FL</cmt>
+        <desc>tel://850-342-0205, 375 S. Water St., Monticello, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.472892029210925" lon="-83.425150997936726">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Madison County Library</name>
+        <cmt>tel://850-973-6814, 378 NW College Lp., Madison, FL</cmt>
+        <desc>tel://850-973-6814, 378 NW College Lp., Madison, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.909704998135567" lon="-81.321441996842623">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Main Branch Library</name>
+        <cmt>tel://904-827-6940, 1960 N. Ponce DeLeon Blvd., St. Augustine, FL</cmt>
+        <desc>tel://904-827-6940, 1960 N. Ponce DeLeon Blvd., St. Augustine, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.778005039319396" lon="-85.227986974641681">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Marianna Library</name>
+        <cmt>tel://850-482-9631, 2929 N. Green St., Marianna, FL</cmt>
+        <desc>tel://850-482-9631, 2929 N. Green St., Marianna, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.681951003149152" lon="-82.387841027230024">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Millhopper Public Library</name>
+        <cmt>tel://352-334-1272, 3145 NW 43rd St., Gainesville, FL</cmt>
+        <desc>tel://352-334-1272, 3145 NW 43rd St., Gainesville, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.642720008268952" lon="-81.683666026219726">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Palatka Library</name>
+        <cmt>tel://386-329-0126, 601 College Rd., Palatka, FL</cmt>
+        <desc>tel://386-329-0126, 601 College Rd., Palatka, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.777216972783208" lon="-85.553705971688032">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-Washington County Library</name>
+        <cmt>tel://850-638-1314, 1444 Jackson Ave., Chipley, FL</cmt>
+        <desc>tel://850-638-1314, 1444 Jackson Ave., Chipley, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.576614979654551" lon="-84.593038028106093">
+        <ele>0</ele>
+        <time></time>
+        <name>LIB-William A. McGill Library</name>
+        <cmt>tel://850-627-7106, 732 Pat Thomas Pkwy., Quincy, FL</cmt>
+        <desc>tel://850-627-7106, 732 Pat Thomas Pkwy., Quincy, FL</desc>
+        <sym>Library</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.31698502600193" lon="-82.808176958933473">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Americas Best Value Inn</name>
+        <cmt>tel://386-963-2501, off route 1 mi. E. at 3119 SR 136</cmt>
+        <desc>tel://386-963-2501, off route 1 mi. E. at 3119 SR 136</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.716898031532764" lon="-85.183447971940041">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Americas Best Value Inn Marianna</name>
+        <cmt>tel://850-526-5666, 2086 SR 71, Marianna, FL</cmt>
+        <desc>tel://850-526-5666, 2086 SR 71, Marianna, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.654646031558514" lon="-82.415781011804938">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Baymont Inn and Suites</name>
+        <cmt>tel://352-332-8292, 6901 NW 4th Blvd., Gainesville, FL</cmt>
+        <desc>tel://352-332-8292, 6901 NW 4th Blvd., Gainesville, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.895390970632434" lon="-81.311534000560641">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Best Western Bayfront Inn</name>
+        <cmt>tel://904-824-4482, 16 Avenida Menendez, St. Augustine, FL</cmt>
+        <desc>tel://904-824-4482, 16 Avenida Menendez, St. Augustine, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.643230969086289" lon="-81.61318201571703">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Best Western Inn of Palatka</name>
+        <cmt>tel://386-325-7800, 119 US 17 S., East Palatka, FL</cmt>
+        <desc>tel://386-325-7800, 119 US 17 S., East Palatka, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.483526987954974" lon="-84.41762700676918">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Best Western Panhandle Capital Inn and Suites</name>
+        <cmt>tel://850-514-2222, 85 River Park Dr., Midway, FL</cmt>
+        <desc>tel://850-514-2222, 85 River Park Dr., Midway, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.398285966366529" lon="-83.357173008844256">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Best Western Plus</name>
+        <cmt>tel://850-973-2020, off route 6.4 mi. SE at SR 53/I-10 interchange, 167 SE Bandit St.</cmt>
+        <desc>tel://850-973-2020, off route 6.4 mi. SE at SR 53/I-10 interchange, 167 SE Bandit St.</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.54533002898097" lon="-83.887094026431441">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Brahman Inn</name>
+        <cmt>tel://850-997-3525, 1530 W. Washington St., Monticello, FL</cmt>
+        <desc>tel://850-997-3525, 1530 W. Washington St., Monticello, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.780447022989392" lon="-85.532834026962519">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Budget Inn Chipley</name>
+        <cmt>tel://850-638-1850, 1184 E. Jackson Ave., Chipley, FL</cmt>
+        <desc>tel://850-638-1850, 1184 E. Jackson Ave., Chipley, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.649735996499658" lon="-81.650655996054411">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Budget Inn Palatka</name>
+        <cmt>tel://386-328-1533, 100 Moseley Ave., Palatka, FL</cmt>
+        <desc>tel://386-328-1533, 100 Moseley Ave., Palatka, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.833707036450505" lon="-82.598828030750155">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Cadillac Motel</name>
+        <cmt>tel://386-454-1701, 405 NW Santa Fe Blvd., High Springs, FL</cmt>
+        <desc>tel://386-454-1701, 405 NW Santa Fe Blvd., High Springs, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.438940040767193" lon="-84.266500035300851">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Courtyard Tallahassee Capital</name>
+        <cmt>tel://850-222-8822, 1018 Apalachee Pkwy., Tallahassee, FL</cmt>
+        <desc>tel://850-222-8822, 1018 Apalachee Pkwy., Tallahassee, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.449606012552977" lon="-84.304684968665242">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Days Inn University Center</name>
+        <cmt>tel://850-222-3219, 1350 W. Tennessee St./US 90, Tallahassee, FL</cmt>
+        <desc>tel://850-222-3219, 1350 W. Tennessee St./US 90, Tallahassee, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.730960015207529" lon="-86.138903964310884">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Defuniak Motel</name>
+        <cmt>tel://850-892-5214, 1304 US 90, DeFuniak Springs, FL</cmt>
+        <desc>tel://850-892-5214, 1304 US 90, DeFuniak Springs, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.800205994397402" lon="-82.509291032329202">
+        <ele>0</ele>
+        <time></time>
+        <name>M-EconoLodge Alachua</name>
+        <cmt>tel://386-462-2414, 15920 US 441, Alachua, FL</cmt>
+        <desc>tel://386-462-2414, 15920 US 441, Alachua, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.658790966495872" lon="-82.423035968095064">
+        <ele>0</ele>
+        <time></time>
+        <name>M-EconoLodge Gainesville</name>
+        <cmt>tel://352-332-4426, 700 NW 75th St., Gainesville, FL</cmt>
+        <desc>tel://352-332-4426, 700 NW 75th St., Gainesville, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.78776903450489" lon="-85.680640004575253">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Economy Lodge</name>
+        <cmt>tel://850-547-4167, 114 W. US 90, Bonifay, FL</cmt>
+        <desc>tel://850-547-4167, 114 W. US 90, Bonifay, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.392781989648938" lon="-84.277277989313006">
+        <ele>0</ele>
+        <time></time>
+        <name>M-El Camino Motel</name>
+        <cmt>tel://850-877-7810, 3705 S. Woodville Hwy., Tallahassee, FL</cmt>
+        <desc>tel://850-877-7810, 3705 S. Woodville Hwy., Tallahassee, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.755050024017692" lon="-85.549033982679248">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Executive Inn Chipley</name>
+        <cmt>tel://850-638-7335, 1593 Main St., Chipley, FL</cmt>
+        <desc>tel://850-638-7335, 1593 Main St., Chipley, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.785488989204168" lon="-85.253320019692183">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Executive Inn Marianna</name>
+        <cmt>tel://850-526-3710, 4113 Lafayette St., Marianna, FL</cmt>
+        <desc>tel://850-526-3710, 4113 Lafayette St., Marianna, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.651512959972024" lon="-82.3291340097785">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Gainesville Lodge</name>
+        <cmt>tel://352-376-1224, 413 W. University Ave., Gainesville, FL</cmt>
+        <desc>tel://352-376-1224, 413 W. University Ave., Gainesville, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.835466984659433" lon="-82.598911011591554">
+        <ele>0</ele>
+        <time></time>
+        <name>M-High Springs Country Inn</name>
+        <cmt>tel://386-454-1565, 520 NW Santa Fe Blvd., High Springs, FL</cmt>
+        <desc>tel://386-454-1565, 520 NW Santa Fe Blvd., High Springs, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.535665024071932" lon="-84.594763023778796">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Holiday Inn Express</name>
+        <cmt>tel://850-875-2500, 101 Spooner Rd. at SR 267/I-10 interchange, Quincy, FL</cmt>
+        <desc>tel://850-875-2500, 101 Spooner Rd. at SR 267/I-10 interchange, Quincy, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.501130996271968" lon="-83.69452198036015">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Honey Lake Plantation Resort</name>
+        <cmt>tel://850-948-9911, 1290 NW Honey Lake Rd., Greenville, FL</cmt>
+        <desc>tel://850-948-9911, 1290 NW Honey Lake Rd., Greenville, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.906215025112033" lon="-81.318055959418416">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Howard Johnson</name>
+        <cmt>tel://904-824-6181, 137 San Marco Ave., St. Augustine, FL</cmt>
+        <desc>tel://904-824-6181, 137 San Marco Ave., St. Augustine, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.493409000337124" lon="-84.426808040589094">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Howard Johnson Tallahassee/Midway</name>
+        <cmt>tel://850-574-8888, 81 Commerce Blvd., Midway, FL</cmt>
+        <desc>tel://850-574-8888, 81 Commerce Blvd., Midway, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.708139026537538" lon="-84.904038989916444">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Lake Seminole Inn</name>
+        <cmt>tel://850-593-6158, 8269 US 90, Sneads, FL</cmt>
+        <desc>tel://850-593-6158, 8269 US 90, Sneads, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.708820978179574" lon="-85.933223962783813">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Ponce de Leon Motel</name>
+        <cmt>tel://850-836-4044, 2957 SR 81 at SR 81S/I-10 interchange, Ponce de Leon, FL</cmt>
+        <desc>tel://850-836-4044, 2957 SR 81 at SR 81S/I-10 interchange, Ponce de Leon, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.800351001322269" lon="-82.510532978922129">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Quality Inn</name>
+        <cmt>tel://386-462-2244, 15960 US 441, Alachua, FL</cmt>
+        <desc>tel://386-462-2244, 15960 US 441, Alachua, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.648034973070025" lon="-81.627680025994778">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Quality Inn and Suites Riverfront</name>
+        <cmt>tel://386-328-3481, 201 N. 1st St., Palatka, FL</cmt>
+        <desc>tel://386-328-3481, 201 N. 1st St., Palatka, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.694453977048397" lon="-86.121355025097728">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Regency Inn and Suites</name>
+        <cmt>tel://850-892-6115, near US 331/I-10 interchange at 472 Hugh Adams Rd., DeFuniak Springs, FL</cmt>
+        <desc>tel://850-892-6115, near US 331/I-10 interchange at 472 Hugh Adams Rd., DeFuniak Springs, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.704395584762096" lon="-84.841465819627047">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Relax Inn</name>
+        <cmt>tel://850-663-4336, 116 E. Washington St., Chattahoochee, FL</cmt>
+        <desc>tel://850-663-4336, 116 E. Washington St., Chattahoochee, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.588069017976522" lon="-84.569658972322941">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Royal Inn</name>
+        <cmt>tel://850-627-7175, 368 E. Jefferson St., Quincy, FL</cmt>
+        <desc>tel://850-627-7175, 368 E. Jefferson St., Quincy, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.657838027924299" lon="-81.670080972835422">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Sleep Inn &amp; Suites</name>
+        <cmt>tel://386-325-8889, 3805 Reid St., Palatka, FL</cmt>
+        <desc>tel://386-325-8889, 3805 Reid St., Palatka, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.897710997611284" lon="-81.314063994213939">
+        <ele>0</ele>
+        <time></time>
+        <name>M-St. George Inn</name>
+        <cmt>tel://904-827-5740, tel://888-827-5740, 4 St. George St. #101, St. Augustine, FL</cmt>
+        <desc>tel://904-827-5740, tel://888-827-5740, 4 St. George St. #101, St. Augustine, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.70352696813643" lon="-86.121947960928082">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Sundown Inn</name>
+        <cmt>tel://850-892-9647, 1295 US 331S, DeFuniak Springs, FL</cmt>
+        <desc>tel://850-892-9647, 1295 US 331S, DeFuniak Springs, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.40024003945291" lon="-83.360441029071808">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Super 8</name>
+        <cmt>tel://850-973-6267, off route 6.4 mi. SE at SR 53/I-10 interchange, 6246 SR 53</cmt>
+        <desc>tel://850-973-6267, off route 6.4 mi. SE at SR 53/I-10 interchange, 6246 SR 53</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.749674960970879" lon="-85.55260400287807">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Super 8 Chipley</name>
+        <cmt>tel://850-638-8530, 1150 Motel Dr., Chipley, FL</cmt>
+        <desc>tel://850-638-8530, 1150 Motel Dr., Chipley, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.727151026949286" lon="-85.185111025348306">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Super 8 Marianna</name>
+        <cmt>tel://850-482-4770, 2226 SR 71, Marianna, FL</cmt>
+        <desc>tel://850-482-4770, 2226 SR 71, Marianna, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.770541038364172" lon="-85.683585992082953">
+        <ele>0</ele>
+        <time></time>
+        <name>M-Tivoli Inn</name>
+        <cmt>tel://850-614-1000, 2004 S. Waukesha St./SR 79, Bonifay, FL</cmt>
+        <desc>tel://850-614-1000, 2004 S. Waukesha St./SR 79, Bonifay, FL</desc>
+        <sym>Lodging</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.436610039323568" lon="-84.117678003385663">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-Chaires</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.802120001986623" lon="-81.549430014565587">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-Racy Point</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.822790026664734" lon="-81.552369967103004">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-Riverdale</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.772280031815171" lon="-85.850129965692759">
+        <ele>0</ele>
+        <time></time>
+        <name>NS-Westville</name>
+        <sym>Navaid, Red</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.644475011155009" lon="-82.343958998098969">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-Florida Museum of Natural History</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.457708965986967" lon="-84.257932975888252">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-Goodwood Museum and Gardens</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.716928960755467" lon="-86.115927994251251">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-Historic Buildings</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.6517179813236" lon="-82.320296969264746">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-Matheson Museum</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.43807502835989" lon="-84.285014988854527">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-Museum of Florida History</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.650352988392115" lon="-81.628167014569044">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-Putnam County Museum</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.467936983332038" lon="-83.413142999634147">
+        <ele>0</ele>
+        <time></time>
+        <name>POI-Treasures of Madison County Museum</name>
+        <sym>Museum</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.484864991158247" lon="-84.423064012080431">
+        <ele>0</ele>
+        <time></time>
+        <name>R</name>
+        <cmt>two at junction of Brick Yard Rd. and US 90, Midway, FL</cmt>
+        <desc>two at junction of Brick Yard Rd. and US 90, Midway, FL</desc>
+        <sym>Restaurant</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.398717969655991" lon="-83.357778014615178">
+        <ele>0</ele>
+        <time></time>
+        <name>R,CS</name>
+        <cmt>multiple, off route 6.4 mi. SE at SR 53/I-10 interchange</cmt>
+        <desc>multiple, off route 6.4 mi. SE at SR 53/I-10 interchange</desc>
+        <sym>Restaurant</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="29.727927334606647" lon="-81.91894143819809">
+        <ele>0</ele>
+        <time></time>
+        <name>R-Grandin</name>
+        <cmt>R open Wed.-Sun. 10 AM-8:30 PM</cmt>
+        <desc>R open Wed.-Sun. 10 AM-8:30 PM</desc>
+        <sym>Navaid, Amber</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="30.317775020375848" lon="-82.80559298582375">
+        <ele>0</ele>
+        <time></time>
+        <name>R1</name>
+        <cmt>off route 1 mi. E. on SR 136</cmt>
+        <desc>off route 1 mi. E. on SR 136</desc>
+        <sym>Restaurant</sym>
+        <type>user</type>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2016-09-22T18:01:03Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+        </extensions>
+    </wpt>
+
+</gpx>
